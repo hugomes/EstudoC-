@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssertsNUnit", "AssertsNUnit\AssertsNUnit.csproj", "{3A9ED35A-2F82-48D7-8E39-4B665ED4D114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssertsNUnit.Tests", "AssertsNUnit.Tests\AssertsNUnit.Tests.csproj", "{E609C129-DEFA-4132-8B05-0C9D9B674885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A9ED35A-2F82-48D7-8E39-4B665ED4D114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9ED35A-2F82-48D7-8E39-4B665ED4D114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9ED35A-2F82-48D7-8E39-4B665ED4D114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9ED35A-2F82-48D7-8E39-4B665ED4D114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E609C129-DEFA-4132-8B05-0C9D9B674885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E609C129-DEFA-4132-8B05-0C9D9B674885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E609C129-DEFA-4132-8B05-0C9D9B674885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E609C129-DEFA-4132-8B05-0C9D9B674885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
